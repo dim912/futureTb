@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.jar
+*.xml
+*.iml
+*.lst
+.idea/sonarlint/
+out/
+src/main/resources/
+src/test/
+target/
